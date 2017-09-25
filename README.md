@@ -100,7 +100,7 @@ QA领域经典论文，项目及数据集
 - [MemNN Impl Matlab](https://github.com/facebook/MemNN)
 - [Key Value MemNN](https://github.com/siyuanzhao/key-value-memory-networks)
 - [Quepy](https://github.com/machinalis/quepy)
-- [NLQuery](https://github.com/ayoungprogrammer/nlquery)
+- [NLQuery](https://github.com/ayoungprogrammer/nlquery)    KBQA based on Parser (Stanford NLPcore)
 - [ParlAI](https://github.com/facebookresearch/ParlAI)
 - [flask-chatterbot](https://github.com/chamkank/flask-chatterbot)
 - [Learning to Rank short text pairs with CNN SIGIR 2015](https://github.com/shashankg7/Keras-CNN-QA)
