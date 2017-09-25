@@ -99,7 +99,7 @@ QA领域经典论文，项目及数据集
 #### Code & Relevant Projects
 - [MemNN Impl Matlab](https://github.com/facebook/MemNN)
 - [Key Value MemNN](https://github.com/siyuanzhao/key-value-memory-networks)
-- [Quepy](https://github.com/machinalis/quepy)
+- [Quepy](https://github.com/machinalis/quepy)  Quepy is a python framework to transform natural language questions to queries in a database query language
 - [NLQuery](https://github.com/ayoungprogrammer/nlquery)    KBQA based on Parser (Stanford NLPcore)
 - [ParlAI](https://github.com/facebookresearch/ParlAI)
 - [flask-chatterbot](https://github.com/chamkank/flask-chatterbot)
